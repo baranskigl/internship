@@ -1,0 +1,7 @@
+/target/
+/.settings
+/.classpath
+/.project
+/maven-demo/.settings
+/maven-demo/.classpath
+/maven-demo/.project
